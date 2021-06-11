@@ -1,2 +1,2 @@
 # Practical frontend
-Practical frontend course. From markup to the framework.
+💻  Practical frontend course. From markup to the framework.
