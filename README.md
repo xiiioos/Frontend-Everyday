@@ -1,5 +1,5 @@
-# Practical frontend
-## 💻  Practical frontend course. From markup to the framework.
+# 💻  Practical frontend
+## Practical frontend course. From markup to the framework.
 
 ___
 #### N1_project - Верстка карточки пользователя
