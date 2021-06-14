@@ -4,11 +4,11 @@
 ___
 #### N1_project - Верстка карточки пользователя
 - ТЗ: Аватар не должен ломаться, если вставить любую другую картинку. Не должно появляться скролла ни на каком разрешении экрана
-#### Project_n2   Landing Page CloudBudget
+#### N2_project   Landing Page CloudBudget
 - 
-#### Project_n3   Верстка UI Kit
+#### N3_project - Верстка UI Kit
 - 
-#### Project_n4   Верстка Langing Page FigmaLand
+#### N4_project - Верстка Langing Page FigmaLand
 - 
-#### Project_n5   Верстка магазина пиццы
+#### N5_project - Верстка магазина пиццы
 - 
